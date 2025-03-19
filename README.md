@@ -4,8 +4,6 @@ STREAMLIT HACKATHON
 
 A comprehensive web application built with Streamlit that serves as an interactive guide to Arduino circuit boards and microcontrollers.
 
-![Arduino Who-Know? Screenshot](https://i.imgur.com/tOJYhQG.png)
-
 ## 🔌 Overview
 
 Arduino Who-Know? is an interactive web application designed to help makers, students, and electronics enthusiasts explore and learn about different Arduino boards. The application features a sleek red and black theme and provides detailed information about various Arduino boards, their components, specifications, and compatible modules.
